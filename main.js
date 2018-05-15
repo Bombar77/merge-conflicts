@@ -1,2 +1,2 @@
 var a = num = 50;
-var truth = "Hellow Flatter Earth!";
+var truth = "Hellow Cats";
